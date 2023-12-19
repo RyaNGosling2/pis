@@ -1,0 +1,11 @@
+C:\jija\pmm3\bin\Debug\pmm3.exe.config
+C:\jija\pmm3\bin\Debug\pmm3.exe
+C:\jija\pmm3\bin\Debug\pmm3.pdb
+C:\jija\pmm3\obj\Debug\pmm3.csproj.AssemblyReference.cache
+C:\jija\pmm3\obj\Debug\pmm3.csproj.SuggestedBindingRedirects.cache
+C:\jija\pmm3\obj\Debug\pmm3.Form1.resources
+C:\jija\pmm3\obj\Debug\pmm3.Properties.Resources.resources
+C:\jija\pmm3\obj\Debug\pmm3.csproj.GenerateResource.cache
+C:\jija\pmm3\obj\Debug\pmm3.csproj.CoreCompileInputs.cache
+C:\jija\pmm3\obj\Debug\pmm3.exe
+C:\jija\pmm3\obj\Debug\pmm3.pdb
